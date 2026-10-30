@@ -11,12 +11,12 @@ International (CC BY 4.0), as linked from its arXiv record.
 License: https://creativecommons.org/licenses/by/4.0/
 Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
 
-The accompanying cover, notices, and README are also made available under
+The accompanying notices and README are also made available under
 CC BY 4.0 by their preparer, Achintya Raya Polavarapu.
 
 This package is modified. The local byline and affiliations differ from the
 original. The research body is unchanged. The modification details appear
-in README.md and on the PDF cover. Preserve the original author credits,
+in README.md, linked from the PDF page notices. Preserve the original author credits,
 source and license links, and indications of changes when sharing this copy.
 No approval or endorsement by the original authors or institutions is implied.
 

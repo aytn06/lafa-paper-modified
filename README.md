@@ -26,12 +26,12 @@ The existing local copy, prepared on October 28, 2026, changed the displayed aut
 
 The manuscript body, methods, experiments, bibliography, and figures were not changed. These document edits are not presented as additional research contributions or evidence of approval by the original authors or institutions.
 
-On October 30, 2026, this publication package added a provenance cover, original-author credits, and a visible modified-copy notice on each included manuscript page. The original local files were left untouched.
+This publication package retains original-author credits here and a modified-copy notice on each manuscript page. The PDF contains the 27 manuscript pages without an added cover. The original local files were left untouched.
 
 ## Files and rebuilding
 
-- `lafa-modified-copy.pdf`: the modified manuscript with its attribution cover and page notices.
-- `lafa-modified-copy.tex`: editable LaTeX wrapper for the cover and page notices.
+- `lafa-modified-copy.pdf`: the 27-page modified manuscript with page notices and no added cover.
+- `lafa-modified-copy.tex`: editable LaTeX wrapper for the page notices.
 - `source.zip`: the wrapper, its input PDF, the local manuscript TeX/BibTeX sources and figures, and these attribution notices. It excludes private project links and local verification records.
 - `LICENSE.txt`: source-license and attribution information.
 
